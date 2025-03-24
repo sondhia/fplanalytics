@@ -1,0 +1,5 @@
+pandas
+fpl-data-loader
+streamlit>=1.35.0
+requests
+plotly
