@@ -49,14 +49,14 @@ Comprehensive user documentation detailing:
 Guidelines on interpreting various visualizations and metrics.
 
 
-Setup & Installation
+### Setup & Installation
 
-Prerequisites
-Python 3.x
-Required libraries: Streamlit, Pandas, Plotly, NumPy, Requests, etc.
-(All dependencies are listed in the requirements.txt file.)
-Installation
-Clone the repository: 
+  Prerequisites
+  Python 3.x
+  Required libraries: Streamlit, Pandas, Plotly, NumPy, Requests, etc.
+  (All dependencies are listed in the requirements.txt file.)
+  Installation
+  Clone the repository: 
 
     git clone https://github.com/yourusername/fpl-data-explorer.git
     cd fpl-data-explorer
